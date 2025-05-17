@@ -34,7 +34,7 @@ const Home = () => {
   
       <header className="hero">
         <h2>Descubre la mejor moda en StorePix</h2>
-        <p>Ropa de calidad, estilo único y las mejores tendencias.</p>
+        <p>Ropa de calidad, estilo único y las mejores marcas para ti.</p>
       </header>
 
       <section className="featured-products">
